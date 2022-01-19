@@ -107,6 +107,7 @@
       "product-separator",
       "product-identifier.product",
       "sku-selector",
+      "addi-infos",
       "product-quantity",
       "product-assembly-options",
       "product-gifts",
@@ -116,7 +117,7 @@
       "share#default"
     ]
   },
-
+  "addi-infos": {},
   "flex-layout.row#product-name": {
     "props": {
       "marginBottom": 3
@@ -177,7 +178,7 @@
         "Facebook": true,
         "WhatsApp": true,
         "Twitter": false,
-        "Pinterest": true
+        "Pinterest": false
       }
     }
   }

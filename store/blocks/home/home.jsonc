@@ -18,11 +18,11 @@
   "list-context.image-list#demo": {
     "children": ["slider-layout#demo-images"],
     "props": {
-      "height": 720,
+      "height": 360,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://cdn.shopify.com/s/files/1/1685/1155/files/Email_Banner_1_768x.png",
+          "mobileImage": "https://cdn.shopify.com/s/files/1/1685/1155/files/Email_Banner_1_768x.png"
         },
         {
           "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",

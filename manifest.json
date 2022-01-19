@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
-  "name": "store-theme",
-  "version": "4.4.2",
+  "vendor": "addi2",
+  "name": "addi-io-theme",
+  "version": "5.0.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -65,7 +65,8 @@
     "vtex.css-handles": "1.x"
   },
   "peerDependencies": {
-    "vtex.reviews-and-ratings": "2.x"
+    "vtex.reviews-and-ratings": "2.x",
+    "addi.product-page-action": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

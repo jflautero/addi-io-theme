@@ -1,7 +1,7 @@
 {
   "vendor": "addi2",
   "name": "addi-io-theme",
-  "version": "5.0.3",
+  "version": "5.7.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",

@@ -112,9 +112,11 @@
       "product-gifts",
       "flex-layout.row#buy-button",
       "availability-subscriber",
-      "shipping-simulator"
+      "shipping-simulator",
+      "addi-infos"
     ]
   },
+  "addi-infos": {},
   "flex-layout.row#product-name": {
     "props": {
       "marginBottom": 3

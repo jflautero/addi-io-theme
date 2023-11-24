@@ -107,17 +107,14 @@
       "product-separator",
       "product-identifier.product",
       "sku-selector",
-      "addi-infos",
       "product-quantity",
       "product-assembly-options",
       "product-gifts",
       "flex-layout.row#buy-button",
       "availability-subscriber",
-      "shipping-simulator",
-      "share#default"
+      "shipping-simulator"
     ]
   },
-  "addi-infos": {},
   "flex-layout.row#product-name": {
     "props": {
       "marginBottom": 3
@@ -170,16 +167,7 @@
       "blockClass": "message-availability"
     },
     "children": ["availability-subscriber"]
-  },
-
-  "share#default": {
-    "props": {
-      "social": {
-        "Facebook": true,
-        "WhatsApp": true,
-        "Twitter": false,
-        "Pinterest": false
-      }
-    }
   }
+
+  
 }
